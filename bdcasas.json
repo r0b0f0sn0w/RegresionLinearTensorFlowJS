@@ -1,0 +1,112 @@
+[
+  {
+    "nombrecasa": "casa3",
+    "precio": 325000,
+    "metroscdcons": 120.3,
+    "metrosdterreno": 190,
+    "largo": 10,
+    "ancho": 19,
+    "nobanos": 1,
+    "norec": 3
+  },
+  {
+    "nombrecasa": "casa5",
+    "precio": 347088,
+    "metroscdcons": 122.9,
+    "metrosdterreno": 156,
+    "largo": 12,
+    "ancho": 13,
+    "nobanos": 2,
+    "norec": 3
+  },
+  {
+    "nombrecasa": "casa1",
+    "precio": 350000,
+    "metroscdcons": 129.5,
+    "metrosdterreno": 200,
+    "largo": 10,
+    "ancho": 20,
+    "nobanos": 2,
+    "norec": 3
+  },
+  {
+    "nombrecasa": "casa8",
+    "precio": 356075,
+    "metroscdcons": 137.5,
+    "metrosdterreno": 176,
+    "largo": 16,
+    "ancho": 11,
+    "nobanos": 1,
+    "norec": 2
+  },
+  {
+    "nombrecasa": "casa4",
+    "precio": 358750,
+    "metroscdcons": 137.8,
+    "metrosdterreno": 150,
+    "largo": 10,
+    "ancho": 15,
+    "nobanos": 1,
+    "norec": 3
+  },
+  {
+    "nombrecasa": "casa10",
+    "precio": 365009,
+    "metroscdcons": 139.4,
+    "metrosdterreno": 150,
+    "largo": 10,
+    "ancho": 15,
+    "nobanos": 2,
+    "norec": 2
+  },
+  {
+    "nombrecasa": "casa9",
+    "precio": 365123,
+    "metroscdcons": 142.7,
+    "metrosdterreno": 170,
+    "largo": 10,
+    "ancho": 17,
+    "nobanos": 1,
+    "norec": 2
+  },
+  {
+    "nombrecasa": "casa6",
+    "precio": 365521,
+    "metroscdcons": 145.8,
+    "metrosdterreno": 168,
+    "largo": 12,
+    "ancho": 14,
+    "nobanos": 1,
+    "norec": 2
+  },
+  {
+    "nombrecasa": "casa11",
+    "precio": 365896,
+    "metroscdcons": 148.6,
+    "metrosdterreno": 200,
+    "largo": 20,
+    "ancho": 10,
+    "nobanos": 2,
+    "norec": 2
+  },
+  {
+    "nombrecasa": "casa2",
+    "precio": "",
+    "metroscdcons": 150.7,
+    "metrosdterreno": 220,
+    "largo": 11,
+    "ancho": 20,
+    "nobanos": 2,
+    "norec": 4
+  },
+  {
+    "nombrecasa": "casa7",
+    "precio": 375000,
+    "metroscdcons": 165.2,
+    "metrosdterreno": 180,
+    "largo": 10,
+    "ancho": 18,
+    "nobanos": 2,
+    "norec": 3
+  }
+]
